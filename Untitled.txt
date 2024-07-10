@@ -1,0 +1,4 @@
+
+Hello everyone this is Purav Nirapure, a beginner in web development though this is my first project frontend using only HTML and CSS
+.It is a usual clone of Amazon.com hence it is not a perfect clone as it lacks JAVASCRIPT, though it is a fantastic project at a beginner level. When I was working on this project Amazon.com was themed on Father's Day that's why my clone also has a touch of Father's Day essential. Thankyou you for going through my project 
+     
